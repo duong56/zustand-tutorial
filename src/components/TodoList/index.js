@@ -8,6 +8,11 @@ export default function TodoList() {
 
   console.log(todoList)
 
+
+
+
+
+  
   const handleInputChange = (e)=>{
     console.log(e.target.value)
   }
